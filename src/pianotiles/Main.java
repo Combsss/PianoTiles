@@ -11,7 +11,7 @@ public class Main extends JPanel implements MouseListener{
 	
 	public static int x, y;
 	
-	
+	//Testing if githubworks!
 	public Main() {
 		//Window settings
 		setPreferredSize(new Dimension(300, 300));
